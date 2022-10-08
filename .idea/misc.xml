@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/back.xml" value="0.126" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/back_coor.xml" value="0.111" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/email.xml" value="0.132" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/ic_messagesicon.xml" value="0.1" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/ic_time.xml" value="0.111" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/ic_vector.xml" value="0.111" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/nav.xml" value="0.111" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/password.xml" value="0.132" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/search_view.xml" value="0.1" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/serch.xml" value="0.111" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/splahscreen.xml" value="0.1" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/splashscreen.xml" value="0.1" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/drawable/text_color.xml" value="0.111" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_add_cart.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_addcart.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_bottom_navigation2.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_cart.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_chapati.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_cheese_pizza.xml" value="0.22" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_chinese.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_chinese2.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_coconet_rice.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_dabeli.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_dosa.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_fastfood.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_food_detalis.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_forgot.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_gujarati.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_idly_sambhar.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_kaju_curry.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_kaju_gathiya.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_margherita_pizza.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_momo.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_mung_subji.xml" value="0.22" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_naan.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_paneer_tikka.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_pav_bhaji.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_pepperoni_pizza.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_pesarattu.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_pizza.xml" value="0.22" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_pizza_details.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_punjabi.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_schezwan_noodles.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_search.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_southindian.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_spring_roll.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_undhiyu.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_vada_pav.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_veg_kadai.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_veg_manchow_soup.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_veg_manchuria.xml" value="0.1859375" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/activity_veggie_pizza.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/fooddetails.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/fooddetalis.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/foodserchitem.xml" value="0.19895833333333332" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/fragment_add_cart.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/fragment_cart.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/fragment_dashboard.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/fragment_deshboard.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/menu/menu.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/menu/navigation.xml" value="0.2" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/mipmap-anydpi-v26/splach.xml" value="0.1" />
+        <entry key="..\:/Android/Small_bites/app/src/main/res/mipmap-anydpi-v26/splach_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

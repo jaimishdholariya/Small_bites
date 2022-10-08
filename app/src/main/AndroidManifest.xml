@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.small_bites">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/splach"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/splach"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Small_bites"
+        tools:targetApi="31">
+        <activity
+            android:name=".CheesePizza"
+            android:exported="false" />
+        <activity
+            android:name=".VegManchowSoup"
+            android:exported="false" />
+        <activity
+            android:name=".VegManchuria"
+            android:exported="false" />
+        <activity
+            android:name=".SchezwanNoodles"
+            android:exported="false" />
+        <activity
+            android:name=".SpringRoll"
+            android:exported="false" />
+        <activity
+            android:name=".IdlySambhar"
+            android:exported="false" />
+        <activity
+            android:name=".pesarattu"
+            android:exported="false" />
+        <activity
+            android:name=".CoconetRice"
+            android:exported="false" />
+        <activity
+            android:name=".Dosa"
+            android:exported="false" />
+        <activity
+            android:name=".VegKadai"
+            android:exported="false" />
+        <activity
+            android:name=".KajuCurry"
+            android:exported="false" />
+        <activity
+            android:name=".Naan"
+            android:exported="false" />
+        <activity
+            android:name=".PaneerTikka"
+            android:exported="false" />
+        <activity
+            android:name=".MungSubjiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".KajuGathiyaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".UndhiyuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ChapatiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MomoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PavBhajiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DabeliActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VadaPavActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PepperoniPizzaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MargheritaPizzaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".VeggiePizzaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Chinese"
+            android:exported="false" />
+        <activity
+            android:name=".Southindian"
+            android:exported="false" />
+        <activity
+            android:name=".Punjabi"
+            android:exported="false" />
+        <activity
+            android:name=".Gujarati"
+            android:exported="false" />
+        <activity
+            android:name=".Fastfood"
+            android:exported="false" />
+        <activity
+            android:name=".PizzaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AddCart"
+            android:exported="false" />
+        <activity
+            android:name=".Dashboard"
+            android:exported="false" />
+        <activity
+            android:name=".Search"
+            android:exported="true" />
+        <activity
+            android:name=".Forgot"
+            android:exported="true" />
+        <activity
+            android:name=".Register"
+            android:exported="true" />
+        <activity
+            android:name=".Login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
